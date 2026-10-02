@@ -1,4 +1,4 @@
-name: Documentation Issue
+name: Report a Documentation Issue
 description: Is something in the module documentation, examples or README wrong or missing?
 labels: ["Documentation"]
 

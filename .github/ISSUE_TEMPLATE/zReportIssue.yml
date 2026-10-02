@@ -1,4 +1,4 @@
-name: Report Issue
+name: Report a Bug
 description: Did you find unexpected behavior in one of the collection's modules?
 labels: ["Bug"]
 
